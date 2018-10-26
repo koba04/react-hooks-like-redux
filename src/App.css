@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+
+.counter-button {
+  width: 10rem;
+  height: 2rem;
+  font-size: 1.2rem;
+  margin: 1rem;
+  border-radius: 0.2rem;
+}
