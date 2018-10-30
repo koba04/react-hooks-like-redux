@@ -1,4 +1,4 @@
-# react-hooks-redux-like
+# react-hooks-like-redux
 
 A simple Redux like counter demo app using React Hook APIs
 
